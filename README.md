@@ -127,14 +127,4 @@ Pull requests are welcome! Here are some ideas to extend the project:
 - [ ] Dark mode toggle
 - [ ] Firebase backend for real user accounts
 
----
 
-## 📄 License
-
-MIT — free to use, fork, and build on.
-
----
-
-## 👤 Author
-
-Built with ❤️ using [Claude AI](https://claude.ai) by Anthropic.
